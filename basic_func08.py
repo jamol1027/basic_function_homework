@@ -6,7 +6,7 @@
 
 def main(a=5):
 
-    b = (a+1)
+    b = a+1
 
     return b
 print(main())
