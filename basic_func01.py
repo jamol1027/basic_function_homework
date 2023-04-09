@@ -2,8 +2,8 @@
 
 # Return the value 0
 
-def main(): 
+def main(a=0): 
+
     return 0 
 
-# Return the value 0
-print( main() )
+print(main())
